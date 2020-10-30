@@ -1,0 +1,4 @@
+*.iobj
+[Bb]in/
+[Oo]bj/
+.vs/
