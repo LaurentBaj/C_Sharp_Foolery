@@ -1,0 +1,13 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\bin\Debug\netcoreapp3.1\SharpCode.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SharpCode\obj\Debug\netcoreapp3.1\SharpCode.genruntimeconfig.cache
