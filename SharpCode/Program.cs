@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GuessingGame;
+using System;
 using System.Collections; 
 
 namespace SharpCode
@@ -6,53 +7,47 @@ namespace SharpCode
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
             // Create random number
-            Random random = new Random();
-            int randomNumber = random.Next(1, 5);
+            int randomNumber = NumberHandler.GenerateRandomNumber(); 
 
             // Print randomNumber for testing 
             Console.WriteLine(randomNumber);
 
             // Store each wrong attempt 
-            ArrayList numbersAlreadyTyped = new ArrayList(); 
-            
+            ArrayList numbersAlreadyTyped = new ArrayList();
+
             // Welcome message
-            Console.WriteLine("Welcome to the guessing game");
-            Console.WriteLine("Choose a random number between one and four: ");
+            Messages.WelcomeMessage(); 
 
             int userInput; // Local: so Do-While can reach it 
 
-            do // while: Number is not within the game rules, typed before, too low or to high
+            // while: Number is not within the game rules, typed before, too low or to high
+            do
             {
                 userInput = Convert.ToInt32(Console.ReadLine()); // user input
 
                 if (userInput < 0 || userInput > 4)
                 {
-                    Console.WriteLine("The input you've entered is either too low or too large");
-                    Console.WriteLine("Try again");
+                    Messages.NotProperValue(); 
                 }
                 else if (numbersAlreadyTyped.Contains(userInput))
                 {
-                    Console.WriteLine("You've already tried this number");
-                    Console.WriteLine("Try again");
-
+                    Messages.AlreadyTypedNumber(); 
                 }
                 else if (userInput < randomNumber)
                 {
-                    Console.WriteLine("Close, but too small");
-                    Console.WriteLine("Try again");
+                    Messages.NumberTooSmall(); 
                     numbersAlreadyTyped.Add(userInput);
                 }
                 else if (userInput > randomNumber)
                 {
-                    Console.WriteLine("Close, but too high");
-                    Console.WriteLine("Try again");
+                    Messages.NumberTooLarge(); 
                     numbersAlreadyTyped.Add(userInput);
                 }
             } while (userInput != randomNumber);
 
-            Console.WriteLine("Correct!");
+            Messages.ExitProgram();
         }
     }
 }
