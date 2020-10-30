@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame\\GuessingGame.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame_SRV\\GuessingGame.csproj",
       "projectName": "GuessingGame",
-      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame\\GuessingGame.csproj",
+      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame_SRV\\GuessingGame.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame\\obj\\",
+      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame_SRV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",

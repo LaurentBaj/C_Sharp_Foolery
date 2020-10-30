@@ -23,6 +23,8 @@ namespace GuessingGame
                 else if (numbersAlreadyTyped.Contains(userInput))
                 {
                     Messages.AlreadyTypedNumber();
+                    if (userInput < randomNumber) Messages.NumberTooSmall(); 
+                    else if (userInput > randomNumber) Messages.NumberTooLarge();
                 }
                 else if (userInput < randomNumber)
                 {

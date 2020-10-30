@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXUYFqnRn7NONm8gQ30HumgtrByolW0Kd7sPi12TaKz9ftrvu6LpWnRyw84SvF3wDF8ESZr7s24Ac3JA/w6JFA==",
+  "dgSpecHash": "a71yMCFnex0PylZ9/zC8gH/Q+3ZthjieDk8cOrw0uKy54lzFkVrMM0XQNuFW4ypgoE4RM81qPtT3IAkosu42WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame\\GuessingGame.csproj",
+  "projectFilePath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\SOLID\\NumberGuessingGame_SRV\\GuessingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
