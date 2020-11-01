@@ -1,0 +1,13 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\bin\Debug\netcoreapp3.1\DecoratorImp_Pizzas.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\DesignPatterns\Singelton\DecoratorImp_Pizzas\obj\Debug\netcoreapp3.1\DecoratorImp_Pizzas.genruntimeconfig.cache
