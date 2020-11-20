@@ -1,0 +1,13 @@
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.exe
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.deps.json
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.dll
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\bin\Debug\netcoreapp3.1\ThreadingEx.pdb
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.dll
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.pdb
+C:\Users\laure\OneDrive\Desktop\ThreadingEx\obj\Debug\netcoreapp3.1\ThreadingEx.genruntimeconfig.cache
