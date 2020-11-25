@@ -14,6 +14,7 @@ namespace Animals
             IAquatic s = new ClownFish();
             IAnimals a3 = (IAnimals)s;
             IAquatic a4 = new ClownFish(); 
+            IAquatic a5 = new Shark();
 
             s.HasGills = true; 
             ((ClownFish)a3).HasGills = false;
@@ -27,6 +28,7 @@ namespace Animals
             animals.Add(a2); 
             animals.Add(a3);
             animals.Add(a4);
+            animals.Add(a5);
             animals.Add(s);
 
             foreach (IAnimals a in animals)

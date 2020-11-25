@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Animals
 {
-    public class ClownFish : IAquatic
+    public class Shark : IAquatic
     {
-        public string Name { get; set; } = "Clown Fish"; 
+        public string Name { get; set; } = "Shark";
 
         public int Age { get; set; }
 
@@ -15,16 +15,16 @@ namespace Animals
 
         public void MakeSignatureSound()
         {
-            Console.WriteLine($"\nThis - { Name } - can only make 'blub-blub' sounds\n");
+            Console.WriteLine($"\nThis - { Name } - is a silent killer. Hence, it does not make any sound\n");
         }
 
         public string SpecialMove()
         {
             if (HasGills)
             {
-                return $"\nThis - {Name} - can swim under water\n";
+                return $"\nThis - {Name} - can tear its prey apart\n";
             }
-            return $"\nThis - {Name} - cannot swim under water\n";
+            return $"\nThis - {Name} - can tear its prey apart\n"; 
         }
     }
 }

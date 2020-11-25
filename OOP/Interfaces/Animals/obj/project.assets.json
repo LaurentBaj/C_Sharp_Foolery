@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\source\\repos\\Animals\\Animals.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\OOP\\Interfaces\\Animals\\Animals.csproj",
       "projectName": "Animals",
-      "projectPath": "C:\\Users\\laure\\source\\repos\\Animals\\Animals.csproj",
+      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\OOP\\Interfaces\\Animals\\Animals.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\source\\repos\\Animals\\obj\\",
+      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\OOP\\Interfaces\\Animals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",

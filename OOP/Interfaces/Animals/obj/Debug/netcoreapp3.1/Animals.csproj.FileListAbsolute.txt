@@ -11,3 +11,16 @@ C:\Users\laure\source\repos\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreC
 C:\Users\laure\source\repos\Animals\obj\Debug\netcoreapp3.1\Animals.dll
 C:\Users\laure\source\repos\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
 C:\Users\laure\source\repos\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\OOP\Interfaces\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
