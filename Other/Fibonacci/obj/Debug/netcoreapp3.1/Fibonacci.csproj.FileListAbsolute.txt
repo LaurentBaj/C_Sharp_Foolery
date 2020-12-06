@@ -1,0 +1,12 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
