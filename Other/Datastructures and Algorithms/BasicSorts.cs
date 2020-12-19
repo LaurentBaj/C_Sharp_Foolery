@@ -7,7 +7,7 @@ namespace Datastructures
     {
         static void Main(string[] args)
         {
-            int[] array = new int[] { 2, 33, 10, -11, 5, 8, 1, 33 };
+            int[] array = new int[] { 2, 33, 10, -11, 5, 3, 14, 8, 1, 33 };
 
             // BubbleSort(array);    
 
@@ -17,6 +17,8 @@ namespace Datastructures
 
             // Selects index with smallest value
             // SelectionSort2(array); 
+
+            InsertionSort(array); 
 
             PrintArrayContents(array);
 
@@ -30,11 +32,11 @@ namespace Datastructures
             {
                 for (int j = 0; j < array.Length - 1; j++)
                 {
-                    if (array[j] > array[j + 1])
+                    while (array[j] > array[j + 1])
                     {
                         SwitchPlaces(array, j, j + 1);
                     }
-                } 
+                }
             }
         }
 
@@ -71,6 +73,23 @@ namespace Datastructures
                 }
 
                 SwitchPlaces(array, tempSmallest, i); 
+            }
+        }
+
+
+        private static void InsertionSort(int[] array)
+        {
+            for (int i = 1; i < array.Length; i++)
+            {
+                int val = array[i];
+                int j = i - 1;
+
+                while (j >= 0 && val < array[j])
+                {
+                    array[j + 1] = array[j]; 
+                    j--; 
+                }
+                array[j + 1] = val; 
             }
         }
 

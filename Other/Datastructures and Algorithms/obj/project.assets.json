@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Datastructures\\Datastructures.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\Datastructures and Algorithms\\Datastructures.csproj",
       "projectName": "Datastructures",
-      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Datastructures\\Datastructures.csproj",
+      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\Datastructures and Algorithms\\Datastructures.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Datastructures\\obj\\",
+      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\Datastructures and Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
