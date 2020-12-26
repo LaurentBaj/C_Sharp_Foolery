@@ -9,16 +9,15 @@ namespace Datastructures
         {
             int[] array = new int[] { 2, 33, 10, -11, 5, 3, 14, 8, 1, 33 };
 
-            // BubbleSort(array);    
+            // BubbleSort(array);
 
-            //// Selection Sorts
-            // Select index with largest value
+            //// SELECTION SORTS
             // SelectionSort1(array); 
-
-            // Selects index with smallest value
             // SelectionSort2(array); 
 
-            InsertionSort(array); 
+            //// INSERTION SORTS
+            // InsertionSort(array); 
+            // ShellSort(array); 
 
             PrintArrayContents(array);
 
@@ -32,7 +31,7 @@ namespace Datastructures
             {
                 for (int j = 0; j < array.Length - 1; j++)
                 {
-                    while (array[j] > array[j + 1])
+                    if (array[j] > array[j + 1])
                     {
                         SwitchPlaces(array, j, j + 1);
                     }
@@ -40,7 +39,7 @@ namespace Datastructures
             }
         }
 
-        private static void SelectionSort1(int[] array)
+        private static void SelectionSort1(int[] array) // Select index with largest value
         {
             for (int i = array.Length - 1; i > 0; i--)
             {
@@ -58,7 +57,7 @@ namespace Datastructures
             }
         }
 
-        private static void SelectionSort2(int[] array)
+        private static void SelectionSort2(int[] array) // Select index with smallest value
         {
             for (int i = 0; i < array.Length - 1; i++)
             {
@@ -76,23 +75,44 @@ namespace Datastructures
             }
         }
 
-
         private static void InsertionSort(int[] array)
         {
             for (int i = 1; i < array.Length; i++)
             {
-                int val = array[i];
-                int j = i - 1;
+                int j = i - 1; 
+                int val = array[i]; 
 
-                while (j >= 0 && val < array[j])
+                while (j >= 0 && array[j] > val)
                 {
                     array[j + 1] = array[j]; 
-                    j--; 
+                    j--;
                 }
-                array[j + 1] = val; 
+
+                array[j + 1] = val; // Keep in mind: j = -1
             }
         }
 
+
+        private static void ShellSort(int[] array)
+        {
+            for (int gap = array.Length / 2; gap > 0; gap /= 2)
+            {
+
+                for (int i = gap; i < array.Length; i++)
+                {
+                    int val = array[i];
+                    int j = i; 
+
+                    while (j >= gap && array[j - gap] > val)
+                    {
+                        array[j] = array[j - gap]; // Keep in mind: j = -1
+                        j -= gap; 
+                    }
+
+                    array[j] = val;
+                }
+            }
+        }
 
 
         // Swap Method
