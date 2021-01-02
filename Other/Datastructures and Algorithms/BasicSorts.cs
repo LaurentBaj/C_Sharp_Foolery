@@ -79,19 +79,18 @@ namespace Datastructures
         {
             for (int i = 1; i < array.Length; i++)
             {
-                int j = i - 1; 
-                int val = array[i]; 
+                int val = array[i];
+                int j = i;
 
-                while (j >= 0 && array[j] > val)
+                while (j > 0 && array[j - 1] > val)
                 {
-                    array[j + 1] = array[j]; 
-                    j--;
+                    array[j] = array[j - 1];
+                    j -= 1;
                 }
 
-                array[j + 1] = val; // Keep in mind: j = -1
+                array[j] = val;
             }
         }
-
 
         private static void ShellSort(int[] array)
         {
@@ -105,7 +104,7 @@ namespace Datastructures
 
                     while (j >= gap && array[j - gap] > val)
                     {
-                        array[j] = array[j - gap]; // Keep in mind: j = -1
+                        array[j] = array[j - gap]; 
                         j -= gap; 
                     }
 
@@ -134,6 +133,7 @@ namespace Datastructures
                 Console.WriteLine(array[i]);
             }
         }
+
 
 
     }
