@@ -1,0 +1,14 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.dll.config
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\bin\Debug\netcoreapp3.1\DemoLib.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLib\obj\Debug\netcoreapp3.1\DemoLib.genruntimeconfig.cache
