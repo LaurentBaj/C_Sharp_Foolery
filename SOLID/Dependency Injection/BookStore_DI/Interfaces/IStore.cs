@@ -2,6 +2,6 @@
 {
     public interface IStore 
     {
-        void MakePurchase(ICustomer customer, IBook book);
+        void MakePurchase(ICustomer customer, IStoreProduct book);
     }
 }

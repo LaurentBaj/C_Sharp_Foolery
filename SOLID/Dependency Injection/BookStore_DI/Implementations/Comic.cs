@@ -2,17 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BookStore_DI
+namespace BookStore_DI.Implementations
 {
-    public class Book : IStoreProduct
+    public class Comic : IStoreProduct
     {
         public string Name { get; }
         public double Price { get; }
         public List<IAuthor> authors;
 
-        public Book(string name = "Unknown", IAuthor author = null, double price = 0)
+        public Comic(string name = "Unknown", IAuthor author = null, double price = 0)
         {
-            if (author == null) author.Name = "Unknown";
             Name = name;
             Price = price;
             authors = new List<IAuthor>();

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BookStore_DI.Implementations;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -6,11 +7,19 @@ namespace BookStore_DI
 {
     public class Store : IStore
     {
-        public void MakePurchase(ICustomer customer, IBook book)
+        public void MakePurchase(ICustomer customer, IStoreProduct product)
         {
-            Console.WriteLine($"{ customer.Name } purchased { book.Name }" +
-                $"\nAuthor: { book.GetAuthors()}" +
-                $"\n- Price: { book.Price }$");
+            if (product is Book)
+            {
+                Console.WriteLine($"{ customer.Name } purchased { product.Name } (BOOK)" +
+                $"\nAuthor: { product.GetAuthors()}" +
+                $"\n- Price: { product.Price }$\n");
+            } else if (product is Comic)
+            {
+                Console.WriteLine($"{ customer.Name } purchased { product.Name } (COMIC)" +
+                $"\nAuthor/Illustrator: { product.GetAuthors()}" +
+                $"\n- Price: { product.Price }$\n");
+            }
         }
     }
 }

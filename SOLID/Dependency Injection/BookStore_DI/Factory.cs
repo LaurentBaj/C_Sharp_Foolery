@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BookStore_DI.Implementations;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -11,9 +12,14 @@ namespace BookStore_DI
             return new Author(name);
         }
 
-        public static IBook CreateBook(string name, IAuthor author, double price)
+        public static IStoreProduct CreateBook(string name, IAuthor author, double price)
         {
             return new Book(name, author, price);
+        }
+
+        public static IStoreProduct CreateComic(string name, IAuthor author, double price)
+        {
+            return new Comic(name, author, price);
         }
 
         public static IStore CreateStore()
