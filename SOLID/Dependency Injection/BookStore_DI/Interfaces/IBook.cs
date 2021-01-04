@@ -1,11 +1,8 @@
 ﻿namespace BookStore_DI
 {
-    public interface IBook
+    public interface IBook : IStoreProduct
     {
-        string Name { get; }
-        double Price { get; }
-
-        void AssignAuthor(string name);
+        void AssignAuthor(IAuthor author);
         string GetAuthors();
     }
 }

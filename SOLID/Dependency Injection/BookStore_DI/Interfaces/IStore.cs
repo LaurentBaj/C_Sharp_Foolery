@@ -1,6 +1,6 @@
 ﻿namespace BookStore_DI
 {
-    public interface IStore
+    public interface IStore 
     {
         void MakePurchase(ICustomer customer, IBook book);
     }

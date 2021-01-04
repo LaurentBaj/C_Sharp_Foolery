@@ -19,9 +19,8 @@ namespace BookStore_DI
             authors.Add(author);
         }
 
-        public void AssignAuthor(string name)
+        public void AssignAuthor(IAuthor author)
         {
-            IAuthor author = new Author(name);
             authors.Add(author);
         }
 
