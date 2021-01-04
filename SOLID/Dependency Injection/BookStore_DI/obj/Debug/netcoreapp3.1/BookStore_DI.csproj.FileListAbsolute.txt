@@ -1,0 +1,13 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\bin\Debug\netcoreapp3.1\BookStore_DI.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\BookStore_DI\obj\Debug\netcoreapp3.1\BookStore_DI.genruntimeconfig.cache
