@@ -4,36 +4,36 @@ using System.Text;
 
 namespace BookStore_DI
 {
-    public class Book
+    public class Book : IBook
     {
         public string Name { get; }
         public double Price { get; }
-        public List<Author> authors;
+        public List<IAuthor> authors;
 
-        public Book(string name = "Unknown", Author author = null, double price = 0)
+        public Book(string name = "Unknown", IAuthor author = null, double price = 0)
         {
-            if (author == null) author.Name = "Unknown"; 
+            if (author == null) author.Name = "Unknown";
             Name = name;
             Price = price;
-            authors = new List<Author>();
-            authors.Add(author); 
+            authors = new List<IAuthor>();
+            authors.Add(author);
         }
 
         public void AssignAuthor(string name)
         {
-            Author author = new Author(name); 
-            authors.Add(author); 
+            IAuthor author = new Author(name);
+            authors.Add(author);
         }
 
         public string GetAuthors()
         {
-            string Authors = "";  
-            foreach (Author a in authors)
+            string Authors = "";
+            foreach (IAuthor a in authors)
             {
-                Authors += a.Name + ", "; 
+                Authors += a.Name + ", ";
             }
-            string AuthorOutput = Authors.Substring(0, Authors.Length - 2); 
-            return AuthorOutput; 
+            string AuthorOutput = Authors.Substring(0, Authors.Length - 2);
+            return AuthorOutput;
         }
     }
 }

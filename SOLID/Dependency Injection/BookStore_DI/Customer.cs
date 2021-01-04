@@ -4,9 +4,10 @@ using System.Text;
 
 namespace BookStore_DI
 {
-    public class Customer
+    public class Customer : ICustomer
     {
-        public string Name, PhoneNumber; 
+        public string Name { get; set; } 
+        public string PhoneNumber { get; set; }  
         public Customer(string name, string phoneNum)
         {
             Name = name; 
