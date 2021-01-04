@@ -8,7 +8,7 @@ namespace BookStore_DI
     {
         public string Name { get; set; } 
         public string PhoneNumber { get; set; }  
-        public Customer(string name, string phoneNum)
+        public Customer(string name ="Unknown", string phoneNum = "Unknown")
         {
             Name = name; 
             PhoneNumber = phoneNum; 
