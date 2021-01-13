@@ -9,12 +9,12 @@ namespace BookStore_DI
     {
         public void MakePurchase(ICustomer customer, IStoreProduct product)
         {
-            if (product is Book)
+            if (product is IBook)
             {
                 Console.WriteLine($"{ customer.Name } purchased { product.Name } (BOOK)" +
                 $"\nAuthor: { product.GetAuthors()}" +
                 $"\n- Price: { product.Price }$\n");
-            } else if (product is Comic)
+            } else if (product is IComic)
             {
                 Console.WriteLine($"{ customer.Name } purchased { product.Name } (COMIC)" +
                 $"\nAuthor/Illustrator: { product.GetAuthors()}" +

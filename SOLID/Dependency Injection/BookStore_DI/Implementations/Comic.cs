@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BookStore_DI.Implementations
 {
-    public class Comic : IStoreProduct
+    public class Comic : IComic
     {
         public string Name { get; }
         public double Price { get; }
