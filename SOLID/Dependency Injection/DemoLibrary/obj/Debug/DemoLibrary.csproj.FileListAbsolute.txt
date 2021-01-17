@@ -1,0 +1,5 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\DemoLibrary\obj\Debug\DemoLibrary.pdb

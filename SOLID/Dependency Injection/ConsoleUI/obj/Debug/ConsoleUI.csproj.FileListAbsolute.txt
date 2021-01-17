@@ -1,0 +1,12 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\Autofac.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\bin\Debug\Autofac.xml
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\SOLID\Dependency Injection\ConsoleUI\obj\Debug\ConsoleUI.pdb
