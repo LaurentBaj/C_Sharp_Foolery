@@ -1,0 +1,16 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\ref\GuessingGame.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\bin\Debug\net5.0\GuessingGame.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\ref\GuessingGame.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\GuessingGame\GuessingGame\GuessingGame\obj\Debug\net5.0\GuessingGame.genruntimeconfig.cache
