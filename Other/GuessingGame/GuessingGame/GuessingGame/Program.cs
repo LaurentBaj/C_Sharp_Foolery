@@ -7,6 +7,7 @@ namespace GuessingGame
         static void Main(string[] args)
         {
             int random = new Random().Next(1, 100);
+            Console.WriteLine(random);
             int attempts = 0; 
 
             Console.WriteLine("\nGuess a number between 1 and 100");
@@ -20,7 +21,8 @@ namespace GuessingGame
 
             if (input == random)
             {
-                Console.WriteLine("Correct!  -  Attempts: " + attempts);
+                attempts++; 
+                Console.WriteLine("\nCorrect!  -  Attempts: " + attempts);
                 return;
             }
 
