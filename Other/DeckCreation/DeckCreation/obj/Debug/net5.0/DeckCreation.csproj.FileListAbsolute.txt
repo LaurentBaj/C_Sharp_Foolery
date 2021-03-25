@@ -1,0 +1,16 @@
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.exe
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.deps.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\ref\DeckCreation.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\bin\Debug\net5.0\DeckCreation.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\ref\DeckCreation.dll
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.pdb
+C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\DeckCreation\obj\Debug\net5.0\DeckCreation.genruntimeconfig.cache
