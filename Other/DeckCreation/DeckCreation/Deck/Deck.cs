@@ -5,7 +5,7 @@ namespace DeckCreation.Deck
 {
     public class Deck : IDeck
     {
-        private Stack<string> _deckStack { get; }
+        public Stack<string> _deckStack { get; }
 
         public Deck() // Fill stack with shuffled cards + Print
         {
@@ -27,6 +27,11 @@ namespace DeckCreation.Deck
             {
                 Console.WriteLine(card);
             }
+        }
+        
+        public string PullCard()
+        {
+            return _deckStack.Pop(); 
         }
     }
 }

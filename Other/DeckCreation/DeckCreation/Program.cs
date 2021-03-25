@@ -8,6 +8,7 @@ namespace DeckCreation
         public static void Main(string[] args)
         { 
             IDeck deck = Factory.Factory.CreateDeck(); // Create deck + print its cards
+            Console.WriteLine("\n" + deck.PullCard());
         }
     }
 }
