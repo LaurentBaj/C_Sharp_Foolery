@@ -15,8 +15,6 @@ namespace DeckCreation.Deck
             {
                 _deckStack.Push(card);
             }
-            
-            Print();
         }
         
         private void Print() // Print entire deck from top to bottom

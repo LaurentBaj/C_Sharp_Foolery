@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using DeckCreation.Players;
 
 namespace DeckCreation.Factory
 {
@@ -17,6 +18,16 @@ namespace DeckCreation.Factory
         public static Stack<string> CreateStack()
         {
             return new(); 
+        }
+
+        public static IPlayer CreatePlayer(string name)
+        {
+            return new Player(name); 
+        }
+
+        public static IPlayerFactory CreatePlayerFactory(int count, IDeck deck)
+        {
+            return new PlayerFactory(count, deck); 
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using DeckCreation.Players;
 
 namespace DeckCreation
 {
@@ -7,8 +8,9 @@ namespace DeckCreation
     {
         public static void Main(string[] args)
         { 
-            IDeck deck = Factory.Factory.CreateDeck(); // Create deck + print its cards
-            Console.WriteLine("\n" + deck.PullCard());
+            
+            IPlayerFactory playerFactory = Factory.Factory.CreatePlayerFactory(2, Factory.Factory.CreateDeck()); 
+            playerFactory.Print();
         }
     }
 }

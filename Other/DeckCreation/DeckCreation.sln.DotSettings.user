@@ -1,14 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=01c28340_002D30db_002D4acc_002Dbe84_002D0b324d37470d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Setup" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.Tests.TestProperAmountOfCards&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestDeck.TestDeckSize&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestFactory.TestDeckCreation&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestFactory.TestCardFactoryCreation&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestFactory&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestDeck.TestCardPullFromDeck&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestDeck.PullThreeCardsFromDeck&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::2B05CF7B-8560-4D25-A35C-882B27D57D98::net5.0::TestDeckCreation.TestDeck&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Project Location="C:\Users\laure\OneDrive\Desktop\C_Sharp_Foolery\Other\DeckCreation\TestDeckCreation" Presentation="&amp;lt;TestDeckCreation&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
