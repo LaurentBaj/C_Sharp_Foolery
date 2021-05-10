@@ -8,7 +8,7 @@ namespace GuessingGameAI
         static void Main(string[] args)
         {
             int attempts = 0;
-            Console.WriteLine("\nWrite a number between 1-1000 and the computer will guess the correct integer");
+            Console.Write("\nWrite a number between 1-1000 and the computer will guess the correct integer:  ");
             int input = Int32.Parse(Console.ReadLine() ?? string.Empty);
             
             ProcessGuess(input, attempts, 1, 1001);
@@ -18,7 +18,7 @@ namespace GuessingGameAI
         {
             int computerGuess = new Random().Next(newLow, newHigh);
 
-            if (computerGuess == input)
+            if (new Random().Next(newLow, newHigh) == input)
             {
                 Console.WriteLine("\nComputer guessed correctly!  - -  Attempts: " + attempts + "  - -  Computer guess: " + computerGuess);
                 return;
@@ -40,6 +40,5 @@ namespace GuessingGameAI
                 ProcessGuess(input, attempts, newLow, newHigh - 1);
             }
         }
-        
     }
 }

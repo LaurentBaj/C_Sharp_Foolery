@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj": {}
+    "C:\\Users\\laure\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj": {
+    "C:\\Users\\laure\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj",
         "projectName": "GuessingGameAI",
-        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj",
+        "projectPath": "C:\\Users\\laure\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\GuessingGameAI.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\obj\\",
+        "outputPath": "C:\\Users\\laure\\Desktop\\C_Sharp_Foolery\\Other\\GuessingGame\\GuessingGame\\GuessingGameAI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
